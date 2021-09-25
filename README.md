@@ -1,1 +1,0 @@
-# ecossitema-hadoop
